@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/travel-react/static/css/main.3c3d6387.chunk.css",
+    "main.js": "/travel-react/static/js/main.0d6deb59.chunk.js",
+    "main.js.map": "/travel-react/static/js/main.0d6deb59.chunk.js.map",
+    "runtime-main.js": "/travel-react/static/js/runtime-main.39d70032.js",
+    "runtime-main.js.map": "/travel-react/static/js/runtime-main.39d70032.js.map",
+    "static/js/2.3fb3af61.chunk.js": "/travel-react/static/js/2.3fb3af61.chunk.js",
+    "static/js/2.3fb3af61.chunk.js.map": "/travel-react/static/js/2.3fb3af61.chunk.js.map",
+    "index.html": "/travel-react/index.html",
+    "static/css/main.3c3d6387.chunk.css.map": "/travel-react/static/css/main.3c3d6387.chunk.css.map",
+    "static/js/2.3fb3af61.chunk.js.LICENSE.txt": "/travel-react/static/js/2.3fb3af61.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/travel-react/static/media/two.bb238fc1.jpg",
+    "static/media/four.d3af2a2d.jpg": "/travel-react/static/media/four.d3af2a2d.jpg",
+    "static/media/nine.f97f588f.jpg": "/travel-react/static/media/nine.f97f588f.jpg",
+    "static/media/three.047226b0.jpg": "/travel-react/static/media/three.047226b0.jpg",
+    "static/media/vide.39e6c79b.mp4": "/travel-react/static/media/vide.39e6c79b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39d70032.js",
+    "static/js/2.3fb3af61.chunk.js",
+    "static/css/main.3c3d6387.chunk.css",
+    "static/js/main.0d6deb59.chunk.js"
+  ]
+}
